@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487323056993">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487323247157">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-musters.css" crc="370700141" ref="store:portfolio:blog"/>
     <file name="nomq_preview_master_a-musters.css" crc="3824530138" ref="store:portfolio:blog"/>
-    <file name="store.css" crc="3781963223" ref="store"/>
-    <file name="nomq_store.css" crc="117497740" ref="store"/>
+    <file name="store.css" crc="3993786996" ref="store"/>
+    <file name="nomq_store.css" crc="290989403" ref="store"/>
     <file name="index.css" crc="326164286" ref="index"/>
     <file name="nomq_index.css" crc="119442893" ref="index"/>
     <file name="portfolio.css" crc="218167770" ref="portfolio"/>
@@ -109,14 +109,12 @@
     <file name="-schlüsselbrett11-crop-u84552.jpg" crc="4131332948" ref="portfolio"/>
     <file name="-schlüsselbrett17-crop-u84622.jpg" crc="179187022" ref="portfolio"/>
     <file name="-schlüsselbrett08-crop-u17039.jpg" crc="529417542" ref="store"/>
-    <file name="-schlüsselbrett11-crop-u17035.jpg" crc="4024913450" ref="store"/>
-    <file name="-schlüsselbrett17-crop-u17037.jpg" crc="397678903" ref="store"/>
     <file name="-schlüsselbrett08-crop-u170392.jpg" crc="529417542" ref="store"/>
-    <file name="-schlüsselbrett11-crop-u170352.jpg" crc="4024913450" ref="store"/>
-    <file name="-schlüsselbrett17-crop-u170372.jpg" crc="397678903" ref="store"/>
+    <file name="_mg_8681-crop-u17035.jpg" crc="373681718" ref="store"/>
+    <file name="_mg_8681-crop-u170352.jpg" crc="373681718" ref="store"/>
   </folder>
   <file name="index.html" crc="3831509964" seo="true" mt="1487274781853" redirect="true"/>
   <file name="blog.html" crc="138913792" seo="true" mt="1487274476052" redirect="true"/>
-  <file name="store.html" crc="4119801664" seo="true" mt="1487323038105" redirect="true"/>
+  <file name="store.html" crc="298153576" seo="true" mt="1487323234376" redirect="true"/>
   <file name="portfolio.html" crc="381670646" seo="true" mt="1487321375487" redirect="true"/>
 </manifest>
