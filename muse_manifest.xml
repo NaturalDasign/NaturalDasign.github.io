@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487321584748">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487321763099">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-musters.css" crc="370700141" ref="store:portfolio:blog"/>
     <file name="nomq_preview_master_a-musters.css" crc="3824530138" ref="store:portfolio:blog"/>
-    <file name="store.css" crc="340603131" ref="store"/>
-    <file name="nomq_store.css" crc="313403418" ref="store"/>
+    <file name="store.css" crc="168522761" ref="store"/>
+    <file name="nomq_store.css" crc="4202227124" ref="store"/>
     <file name="index.css" crc="326164286" ref="index"/>
     <file name="nomq_index.css" crc="119442893" ref="index"/>
     <file name="portfolio.css" crc="218167770" ref="portfolio"/>
@@ -108,19 +108,9 @@
     <file name="-schlüsselbrett11-crop-u71792.jpg" crc="9094641" ref="portfolio"/>
     <file name="-schlüsselbrett17-crop-u71872.jpg" crc="345771199" ref="portfolio"/>
     <file name="-schlüsselbrett05-crop-u71942.jpg" crc="4189362863" ref="portfolio"/>
-    <file name="-schuhlöffelhalter09-crop-u15160.jpg" crc="258421728" ref="store"/>
-    <file name="-schuhlöffelhalter11-crop-u15154.jpg" crc="4237010401" ref="store"/>
-    <file name="-schuhlöffelhalter15-crop-u15158.jpg" crc="4220098071" ref="store"/>
-    <file name="-schuhlöffelhalter16-crop-u15162.jpg" crc="187373446" ref="store"/>
-    <file name="-schuhlöffelhalter19-crop-u15156.jpg" crc="434111021" ref="store"/>
-    <file name="-schuhlöffelhalter09-crop-u151602.jpg" crc="258421728" ref="store"/>
-    <file name="-schuhlöffelhalter11-crop-u151542.jpg" crc="4237010401" ref="store"/>
-    <file name="-schuhlöffelhalter15-crop-u151582.jpg" crc="4220098071" ref="store"/>
-    <file name="-schuhlöffelhalter16-crop-u151622.jpg" crc="187373446" ref="store"/>
-    <file name="-schuhlöffelhalter19-crop-u151562.jpg" crc="434111021" ref="store"/>
   </folder>
   <file name="index.html" crc="3831509964" seo="true" mt="1487274781853" redirect="true"/>
   <file name="blog.html" crc="138913792" seo="true" mt="1487274476052" redirect="true"/>
-  <file name="store.html" crc="342124670" seo="true" mt="1487321556133" redirect="true"/>
+  <file name="store.html" crc="3894972485" seo="true" mt="1487321753015" redirect="true"/>
   <file name="portfolio.html" crc="381670646" seo="true" mt="1487321375487" redirect="true"/>
 </manifest>
