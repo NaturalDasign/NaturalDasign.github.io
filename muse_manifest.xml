@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487328115053">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487328283133">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-musters.css" crc="370700141" ref="store:portfolio:blog"/>
@@ -103,13 +103,13 @@
     <file name="2016_finn_diebold_sd_formstudien (4)-crop-u71692.jpg" crc="4045630738" ref="portfolio"/>
     <file name="2016_finn_diebold_sd_formstudien (3)-crop-u7187.jpg" crc="141134291" ref="portfolio"/>
     <file name="2016_finn_diebold_sd_formstudien (3)-crop-u71872.jpg" crc="3888809497" ref="portfolio"/>
-    <file name="2016_finn_diebold_sd_formstudien (2)-crop-u7179.jpg" crc="3966406564" ref="portfolio"/>
     <file name="2016_finn_diebold_sd_formstudien (1)-crop-u7194.jpg" crc="4159460626" ref="portfolio"/>
-    <file name="2016_finn_diebold_sd_formstudien (2)-crop-u71792.jpg" crc="4290586296" ref="portfolio"/>
     <file name="2016_finn_diebold_sd_formstudien (1)-crop-u71942.jpg" crc="3978902142" ref="portfolio"/>
+    <file name="_mg_8749-crop-u7179.jpg" crc="340334223" ref="portfolio"/>
+    <file name="_mg_8749-crop-u71792.jpg" crc="126945292" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="3831509964" seo="true" mt="1487274781853" redirect="true"/>
   <file name="blog.html" crc="138913792" seo="true" mt="1487274476052" redirect="true"/>
   <file name="store.html" crc="3914468687" seo="true" mt="1487327406682" redirect="true"/>
-  <file name="portfolio.html" crc="236399582" seo="true" mt="1487328098006" redirect="true"/>
+  <file name="portfolio.html" crc="357333201" seo="true" mt="1487328272057" redirect="true"/>
 </manifest>
