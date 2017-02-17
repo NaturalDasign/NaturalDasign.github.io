@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487326607306">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487327635615">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-musters.css" crc="370700141" ref="store:portfolio:blog"/>
     <file name="nomq_preview_master_a-musters.css" crc="3824530138" ref="store:portfolio:blog"/>
-    <file name="store.css" crc="64031418" ref="store"/>
-    <file name="nomq_store.css" crc="308796870" ref="store"/>
+    <file name="store.css" crc="3833096402" ref="store"/>
+    <file name="nomq_store.css" crc="227764150" ref="store"/>
     <file name="index.css" crc="326164286" ref="index"/>
     <file name="nomq_index.css" crc="119442893" ref="index"/>
-    <file name="portfolio.css" crc="218167770" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="4248832318" ref="portfolio"/>
+    <file name="portfolio.css" crc="55307957" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="333183748" ref="portfolio"/>
     <file name="blog.css" crc="3932129894" ref="blog"/>
     <file name="nomq_blog.css" crc="4237810374" ref="blog"/>
   </folder>
@@ -74,7 +74,6 @@
     <file name="coffetable_32-crop-u6466.jpg" crc="355446607" ref="portfolio"/>
     <file name="coffetable_31-crop-u6459.jpg" crc="4199882399" ref="portfolio"/>
     <file name="coffetable_33-crop-u6473.jpg" crc="196261485" ref="portfolio"/>
-    <file name="-schlüsselbrett08-crop-u7169.jpg" crc="50767285" ref="portfolio"/>
     <file name="-schlüsselbrett11-crop-u7179.jpg" crc="377628259" ref="portfolio"/>
     <file name="-schlüsselbrett17-crop-u7187.jpg" crc="4019457556" ref="portfolio"/>
     <file name="-schlüsselbrett05-crop-u7194.jpg" crc="111325408" ref="portfolio"/>
@@ -95,7 +94,6 @@
     <file name="coffetable_32-crop-u64662.jpg" crc="8596408" ref="portfolio"/>
     <file name="coffetable_31-crop-u64592.jpg" crc="366603471" ref="portfolio"/>
     <file name="coffetable_33-crop-u64732.jpg" crc="131714538" ref="portfolio"/>
-    <file name="-schlüsselbrett08-crop-u71692.jpg" crc="4010531826" ref="portfolio"/>
     <file name="-schlüsselbrett11-crop-u71792.jpg" crc="9094641" ref="portfolio"/>
     <file name="-schlüsselbrett17-crop-u71872.jpg" crc="345771199" ref="portfolio"/>
     <file name="-schlüsselbrett05-crop-u71942.jpg" crc="4189362863" ref="portfolio"/>
@@ -108,17 +106,11 @@
     <file name="-schlüsselbrett05224x217.jpg" crc="358960192" seo="true" ref="portfolio"/>
     <file name="-schlüsselbrett11-crop-u84552.jpg" crc="4131332948" ref="portfolio"/>
     <file name="-schlüsselbrett17-crop-u84622.jpg" crc="179187022" ref="portfolio"/>
-    <file name="-schlüsselbrett08-crop-u17039.jpg" crc="529417542" ref="store"/>
-    <file name="-schlüsselbrett08-crop-u170392.jpg" crc="529417542" ref="store"/>
-    <file name="coffetable_26-crop-u17672.jpg" crc="4203937833" ref="store"/>
-    <file name="coffetable_26-crop-u176722.jpg" crc="4203937833" ref="store"/>
-    <file name="_mg_8681-crop-u17864.jpg" crc="3849086738" ref="store"/>
-    <file name="_mg_8749-crop-u17969.jpg" crc="4034914103" ref="store"/>
-    <file name="_mg_8681-crop-u178642.jpg" crc="3849086738" ref="store"/>
-    <file name="_mg_8749-crop-u179692.jpg" crc="4034914103" ref="store"/>
+    <file name="2016_finn_diebold_sd_formstudien (4)-crop-u7169.jpg" crc="4158222990" ref="portfolio"/>
+    <file name="2016_finn_diebold_sd_formstudien (4)-crop-u71692.jpg" crc="4045630738" ref="portfolio"/>
   </folder>
   <file name="index.html" crc="3831509964" seo="true" mt="1487274781853" redirect="true"/>
   <file name="blog.html" crc="138913792" seo="true" mt="1487274476052" redirect="true"/>
-  <file name="store.html" crc="76825878" seo="true" mt="1487326594363" redirect="true"/>
-  <file name="portfolio.html" crc="381670646" seo="true" mt="1487321375487" redirect="true"/>
+  <file name="store.html" crc="3914468687" seo="true" mt="1487327406682" redirect="true"/>
+  <file name="portfolio.html" crc="3794581609" seo="true" mt="1487327613038" redirect="true"/>
 </manifest>
