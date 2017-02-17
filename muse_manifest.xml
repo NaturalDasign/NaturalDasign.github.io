@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487321763099">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487321879025">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-musters.css" crc="370700141" ref="store:portfolio:blog"/>
     <file name="nomq_preview_master_a-musters.css" crc="3824530138" ref="store:portfolio:blog"/>
-    <file name="store.css" crc="168522761" ref="store"/>
-    <file name="nomq_store.css" crc="4202227124" ref="store"/>
+    <file name="store.css" crc="177830527" ref="store"/>
+    <file name="nomq_store.css" crc="4049252339" ref="store"/>
     <file name="index.css" crc="326164286" ref="index"/>
     <file name="nomq_index.css" crc="119442893" ref="index"/>
     <file name="portfolio.css" crc="218167770" ref="portfolio"/>
@@ -108,9 +108,11 @@
     <file name="-schlüsselbrett11-crop-u71792.jpg" crc="9094641" ref="portfolio"/>
     <file name="-schlüsselbrett17-crop-u71872.jpg" crc="345771199" ref="portfolio"/>
     <file name="-schlüsselbrett05-crop-u71942.jpg" crc="4189362863" ref="portfolio"/>
+    <file name="-schuhlöffelhalter11-crop-u15603.jpg" crc="4166233131" ref="store"/>
+    <file name="-schuhlöffelhalter11-crop-u156032.jpg" crc="4166233131" ref="store"/>
   </folder>
   <file name="index.html" crc="3831509964" seo="true" mt="1487274781853" redirect="true"/>
   <file name="blog.html" crc="138913792" seo="true" mt="1487274476052" redirect="true"/>
-  <file name="store.html" crc="3894972485" seo="true" mt="1487321753015" redirect="true"/>
+  <file name="store.html" crc="4268993939" seo="true" mt="1487321870153" redirect="true"/>
   <file name="portfolio.html" crc="381670646" seo="true" mt="1487321375487" redirect="true"/>
 </manifest>
