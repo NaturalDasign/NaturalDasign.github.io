@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487324873081">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487326607306">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-musters.css" crc="370700141" ref="store:portfolio:blog"/>
     <file name="nomq_preview_master_a-musters.css" crc="3824530138" ref="store:portfolio:blog"/>
-    <file name="store.css" crc="83114327" ref="store"/>
-    <file name="nomq_store.css" crc="203801484" ref="store"/>
+    <file name="store.css" crc="64031418" ref="store"/>
+    <file name="nomq_store.css" crc="308796870" ref="store"/>
     <file name="index.css" crc="326164286" ref="index"/>
     <file name="nomq_index.css" crc="119442893" ref="index"/>
     <file name="portfolio.css" crc="218167770" ref="portfolio"/>
@@ -119,6 +119,6 @@
   </folder>
   <file name="index.html" crc="3831509964" seo="true" mt="1487274781853" redirect="true"/>
   <file name="blog.html" crc="138913792" seo="true" mt="1487274476052" redirect="true"/>
-  <file name="store.html" crc="51391318" seo="true" mt="1487324858289" redirect="true"/>
+  <file name="store.html" crc="76825878" seo="true" mt="1487326594363" redirect="true"/>
   <file name="portfolio.html" crc="381670646" seo="true" mt="1487321375487" redirect="true"/>
 </manifest>
