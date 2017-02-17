@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://github.com/NaturalDasign/NaturalDasign.github.io.git/portfolio.html</loc>
+    <lastmod>2017-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://github.com/NaturalDasign/NaturalDasign.github.io.git/store.html</loc>
     <lastmod>2017-02-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -15,12 +21,6 @@
   <url>
     <loc>https://github.com/NaturalDasign/NaturalDasign.github.io.git/blog.html</loc>
     <lastmod>2017-02-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://github.com/NaturalDasign/NaturalDasign.github.io.git/portfolio.html</loc>
-    <lastmod>2017-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,6 +45,18 @@
   <url>
     <loc>https://github.com/NaturalDasign/NaturalDasign.github.io.git/assets/snippet_30e8e91a2.idms</loc>
     <lastmod>2017-01-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://github.com/NaturalDasign/NaturalDasign.github.io.git/images/_mg_8681.jpg</loc>
+    <lastmod>2017-02-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://github.com/NaturalDasign/NaturalDasign.github.io.git/images/_mg_8749.jpg</loc>
+    <lastmod>2017-02-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
