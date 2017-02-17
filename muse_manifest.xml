@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487320441483">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://github.com/NaturalDasign/NaturalDasign.github.io.git" resolutions="1x" timestamp="1487321084840">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-musters.css" crc="370700141" ref="store:portfolio:blog"/>
@@ -45,10 +45,10 @@
     <file name="-schlüsselbrett08-crop-u12104.jpg" crc="529417542" ref="store"/>
     <file name="-schlüsselbrett11-crop-u12130.jpg" crc="4024913450" ref="store"/>
     <file name="-schlüsselbrett17-crop-u12156.jpg" crc="397678903" ref="store"/>
-    <file name="_mg_8681-crop-u12210.jpg" crc="374943800" ref="store"/>
-    <file name="_mg_8723-crop-u12237.jpg" crc="3860950858" ref="store"/>
-    <file name="_mg_8749-crop-u12263.jpg" crc="29107270" ref="store"/>
-    <file name="_mg_8779-crop-u12289.jpg" crc="4058943290" ref="store"/>
+    <file name="_mg_8681-crop-u12210.jpg" crc="455302636" ref="store"/>
+    <file name="_mg_8723-crop-u12237.jpg" crc="4174558279" ref="store"/>
+    <file name="_mg_8749-crop-u12263.jpg" crc="1923888" ref="store"/>
+    <file name="_mg_8779-crop-u12289.jpg" crc="17284019" ref="store"/>
     <file name="-schuhlöffelhalter09-crop-u12350.jpg" crc="258421728" ref="store"/>
     <file name="-schuhlöffelhalter11-crop-u12377.jpg" crc="4237010401" ref="store"/>
     <file name="-schuhlöffelhalter15-crop-u12403.jpg" crc="4220098071" ref="store"/>
@@ -65,10 +65,10 @@
     <file name="20160706_skate gaderobe_04-crop-u118382.jpg" crc="4174808554" ref="store"/>
     <file name="20160706_skate gaderobe_08-crop-u118642.jpg" crc="448647591" ref="store"/>
     <file name="20160706_skate gaderobe_12-crop-u118902.jpg" crc="4016514840" ref="store"/>
-    <file name="_mg_8681-crop-u122102.jpg" crc="374943800" ref="store"/>
-    <file name="_mg_8723-crop-u122372.jpg" crc="3860950858" ref="store"/>
-    <file name="_mg_8749-crop-u122632.jpg" crc="29107270" ref="store"/>
-    <file name="_mg_8779-crop-u122892.jpg" crc="4058943290" ref="store"/>
+    <file name="_mg_8681-crop-u122102.jpg" crc="455302636" ref="store"/>
+    <file name="_mg_8723-crop-u122372.jpg" crc="4174558279" ref="store"/>
+    <file name="_mg_8749-crop-u122632.jpg" crc="1923888" ref="store"/>
+    <file name="_mg_8779-crop-u122892.jpg" crc="17284019" ref="store"/>
     <file name="-schuhlöffelhalter09-crop-u123502.jpg" crc="258421728" ref="store"/>
     <file name="-schuhlöffelhalter11-crop-u123772.jpg" crc="4237010401" ref="store"/>
     <file name="-schuhlöffelhalter15-crop-u124032.jpg" crc="4220098071" ref="store"/>
@@ -82,10 +82,10 @@
     <file name="coffetable_32-crop-u6466.jpg" crc="355446607" ref="portfolio"/>
     <file name="coffetable_31-crop-u6459.jpg" crc="4199882399" ref="portfolio"/>
     <file name="coffetable_33-crop-u6473.jpg" crc="196261485" ref="portfolio"/>
-    <file name="_mg_8723-crop-u7169.jpg" crc="529973481" ref="portfolio"/>
-    <file name="_mg_8749-crop-u7179.jpg" crc="135130800" ref="portfolio"/>
-    <file name="_mg_8779-crop-u7187.jpg" crc="63230286" ref="portfolio"/>
-    <file name="_mg_8681-crop-u7194.jpg" crc="4116714977" ref="portfolio"/>
+    <file name="_mg_8723-crop-u7169.jpg" crc="447057822" ref="portfolio"/>
+    <file name="_mg_8749-crop-u7179.jpg" crc="305875447" ref="portfolio"/>
+    <file name="_mg_8779-crop-u7187.jpg" crc="4012231392" ref="portfolio"/>
+    <file name="_mg_8681-crop-u7194.jpg" crc="268035403" ref="portfolio"/>
     <file name="-schuhlöffelhalter11-crop-u7763.jpg" crc="4281580108" ref="portfolio"/>
     <file name="-schuhlöffelhalter16-crop-u7756.jpg" crc="3898184041" ref="portfolio"/>
     <file name="-schuhlöffelhalter15-crop-u7748.jpg" crc="4203919541" ref="portfolio"/>
@@ -103,10 +103,10 @@
     <file name="coffetable_32-crop-u64662.jpg" crc="8596408" ref="portfolio"/>
     <file name="coffetable_31-crop-u64592.jpg" crc="366603471" ref="portfolio"/>
     <file name="coffetable_33-crop-u64732.jpg" crc="131714538" ref="portfolio"/>
-    <file name="_mg_8723-crop-u71692.jpg" crc="4119529767" ref="portfolio"/>
-    <file name="_mg_8749-crop-u71792.jpg" crc="436700758" ref="portfolio"/>
-    <file name="_mg_8779-crop-u71872.jpg" crc="3829914173" ref="portfolio"/>
-    <file name="_mg_8681-crop-u71942.jpg" crc="234588145" ref="portfolio"/>
+    <file name="_mg_8723-crop-u71692.jpg" crc="3975633334" ref="portfolio"/>
+    <file name="_mg_8749-crop-u71792.jpg" crc="315745444" ref="portfolio"/>
+    <file name="_mg_8779-crop-u71872.jpg" crc="24818730" ref="portfolio"/>
+    <file name="_mg_8681-crop-u71942.jpg" crc="4157530155" ref="portfolio"/>
     <file name="-schuhlöffelhalter11-crop-u77632.jpg" crc="3845748814" ref="portfolio"/>
     <file name="-schuhlöffelhalter16-crop-u77562.jpg" crc="156480050" ref="portfolio"/>
     <file name="-schuhlöffelhalter15-crop-u77482.jpg" crc="419877084" ref="portfolio"/>
@@ -119,6 +119,6 @@
   </folder>
   <file name="index.html" crc="3831509964" seo="true" mt="1487274781853" redirect="true"/>
   <file name="blog.html" crc="138913792" seo="true" mt="1487274476052" redirect="true"/>
-  <file name="store.html" crc="260871116" seo="true" mt="1487320334649" redirect="true"/>
-  <file name="portfolio.html" crc="461559059" seo="true" mt="1487320331274" redirect="true"/>
+  <file name="store.html" crc="3875884032" seo="true" mt="1487321061993" redirect="true"/>
+  <file name="portfolio.html" crc="4214185180" seo="true" mt="1487321061627" redirect="true"/>
 </manifest>
